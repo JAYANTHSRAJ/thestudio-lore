@@ -1,0 +1,189 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * degular:
+ *   - http://typekit.com/eulas/00000000000000007735c867
+ *   - http://typekit.com/eulas/00000000000000007735c869
+ *   - http://typekit.com/eulas/00000000000000007735c877
+ *   - http://typekit.com/eulas/00000000000000007735c87b
+ * degular-display:
+ *   - http://typekit.com/eulas/00000000000000007735c850
+ *   - http://typekit.com/eulas/00000000000000007735c854
+ *   - http://typekit.com/eulas/00000000000000007735c855
+ *   - http://typekit.com/eulas/00000000000000007735c856
+ *   - http://typekit.com/eulas/00000000000000007735c85b
+ *   - http://typekit.com/eulas/00000000000000007735c85f
+ *   - http://typekit.com/eulas/00000000000000007735c864
+ *   - http://typekit.com/eulas/00000000000000007735c866
+ *   - http://typekit.com/eulas/00000000000000007735c86a
+ *   - http://typekit.com/eulas/00000000000000007735c86c
+ *   - http://typekit.com/eulas/00000000000000007735c870
+ *   - http://typekit.com/eulas/00000000000000007735c873
+ *   - http://typekit.com/eulas/00000000000000007735c876
+ *   - http://typekit.com/eulas/00000000000000007735c878
+ * degular-text:
+ *   - http://typekit.com/eulas/00000000000000007735c865
+ *   - http://typekit.com/eulas/00000000000000007735c868
+ *   - http://typekit.com/eulas/00000000000000007735c879
+ *   - http://typekit.com/eulas/00000000000000007735c87a
+ * gyst-variable:
+ *   - http://typekit.com/eulas/000000000000000077508a98
+ *   - http://typekit.com/eulas/000000000000000077508a99
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2025-07-10 07:49:53 UTC"}*/
+
+@import url("../fonts/typekit/p.css?s=1&k=scp8now&ht=tk&f=44510.44511.44516.44517.44520.44521.44522.44523.44524.44525.44526.44527.44528.44529.44530.44531.44532.44533.44538.44539.44544.44545.53658.53659&a=185267100&app=typekit&e=css");
+
+@font-face {
+font-family:"degular";
+src:url("../fonts/typekit/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("../fonts/typekit/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("../fonts/typekit/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular";
+src:url("../fonts/typekit/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("../fonts/typekit/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("../fonts/typekit/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular";
+src:url("../fonts/typekit/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("../fonts/typekit/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("../fonts/typekit/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular";
+src:url("../fonts/typekit/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("../fonts/typekit/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("../fonts/typekit/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-display";
+src:url("../fonts/typekit/l?subset_id=2&fvd=n2&v=3") format("woff2"),url("../fonts/typekit/d?subset_id=2&fvd=n2&v=3") format("woff"),url("../fonts/typekit/a?subset_id=2&fvd=n2&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:200;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-display";
+src:url("../fonts/typekit/l?subset_id=2&fvd=i2&v=3") format("woff2"),url("../fonts/typekit/d?subset_id=2&fvd=i2&v=3") format("woff"),url("../fonts/typekit/a?subset_id=2&fvd=i2&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:200;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-display";
+src:url("../fonts/typekit/l?subset_id=2&fvd=n3&v=3") format("woff2"),url("../fonts/typekit/d?subset_id=2&fvd=n3&v=3") format("woff"),url("../fonts/typekit/a?subset_id=2&fvd=n3&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-display";
+src:url("../fonts/typekit/l?subset_id=2&fvd=i3&v=3") format("woff2"),url("../fonts/typekit/d?subset_id=2&fvd=i3&v=3") format("woff"),url("../fonts/typekit/a?subset_id=2&fvd=i3&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-display";
+src:url("../fonts/typekit/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("../fonts/typekit/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("../fonts/typekit/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-display";
+src:url("../fonts/typekit/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("../fonts/typekit/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("../fonts/typekit/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-display";
+src:url("../fonts/typekit/l?subset_id=2&fvd=n5&v=3") format("woff2"),url("../fonts/typekit/d?subset_id=2&fvd=n5&v=3") format("woff"),url("../fonts/typekit/a?subset_id=2&fvd=n5&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-display";
+src:url("../fonts/typekit/l?subset_id=2&fvd=i5&v=3") format("woff2"),url("../fonts/typekit/d?subset_id=2&fvd=i5&v=3") format("woff"),url("../fonts/typekit/a?subset_id=2&fvd=i5&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-display";
+src:url("../fonts/typekit/l?subset_id=2&fvd=n6&v=3") format("woff2"),url("../fonts/typekit/d?subset_id=2&fvd=n6&v=3") format("woff"),url("../fonts/typekit/a?subset_id=2&fvd=n6&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-display";
+src:url("../fonts/typekit/l?subset_id=2&fvd=i6&v=3") format("woff2"),url("../fonts/typekit/d?subset_id=2&fvd=i6&v=3") format("woff"),url("../fonts/typekit/a?subset_id=2&fvd=i6&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-display";
+src:url("../fonts/typekit/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("../fonts/typekit/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("../fonts/typekit/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-display";
+src:url("../fonts/typekit/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("../fonts/typekit/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("../fonts/typekit/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-display";
+src:url("../fonts/typekit/l?subset_id=2&fvd=n8&v=3") format("woff2"),url("../fonts/typekit/d?subset_id=2&fvd=n8&v=3") format("woff"),url("../fonts/typekit/a?subset_id=2&fvd=n8&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-display";
+src:url("../fonts/typekit/l?subset_id=2&fvd=i8&v=3") format("woff2"),url("../fonts/typekit/d?subset_id=2&fvd=i8&v=3") format("woff"),url("../fonts/typekit/a?subset_id=2&fvd=i8&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-text";
+src:url("../fonts/typekit/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("../fonts/typekit/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("../fonts/typekit/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-text";
+src:url("../fonts/typekit/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("../fonts/typekit/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("../fonts/typekit/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-text";
+src:url("../fonts/typekit/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("../fonts/typekit/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("../fonts/typekit/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-text";
+src:url("../fonts/typekit/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("../fonts/typekit/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("../fonts/typekit/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gyst-variable";
+src:url("../fonts/typekit/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff2"),url("../fonts/typekit/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff"),url("../fonts/typekit/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:100 700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gyst-variable";
+src:url("../fonts/typekit/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"),url("../fonts/typekit/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"),url("../fonts/typekit/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:100 700;font-stretch:normal;
+}
+
+.tk-degular { font-family: "degular",sans-serif; }
+.tk-degular-display { font-family: "degular-display",sans-serif; }
+.tk-degular-text { font-family: "degular-text",sans-serif; }
+.tk-gyst-variable { font-family: "gyst-variable",sans-serif; }

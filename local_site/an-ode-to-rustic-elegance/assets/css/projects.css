@@ -1,0 +1,85 @@
+.project-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 30px;
+    width: fit-content;
+    flex-wrap: wrap;
+    background: #EAEAEA;
+	border-radius: 8px;
+    padding: 10px;
+}
+.tab-btn {
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  background: transparent;
+  border-radius: 6px;
+  font-weight: 500;
+  font-family: "Inter Tight", sans-serif;
+  color: #1D3241;
+}
+.tab-btn.active {
+  background: #fff;
+  color: #1D3241;
+}
+.projects-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+  justify-content: center;
+}
+.project-thumbnail img{
+    border-radius: 10px;
+}
+a.project-btn {
+    display: flex;
+    align-items: center;
+    width: fit-content;
+}
+.project-btn svg{
+	width: 14px;
+	height: 14px;
+	fill: #fff;
+	margin-left: 5px;
+}
+@media (min-width: 768px) {
+  .projects-wrapper {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+.project-card {
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.08);
+  text-align: left;
+  padding: 20px;
+}
+.project-title {
+  color: #f37021;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: "gyst-variable", sans-serif !important;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-size: 28px;
+}
+.project-desc {
+  color: #444;
+  font-family: "Inter Tight", sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+}
+.project-btn {
+  background-color: #1D3241;
+  color: #fff;
+  padding: 10px 16px;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Inter Tight", sans-serif;
+  border-radius: 6px;
+  text-decoration: none;
+  /*margin-top: 10px;*/
+  display: inline-block;
+}

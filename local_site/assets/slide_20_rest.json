@@ -1,0 +1,1379 @@
+{
+  "success": true,
+  "message": "",
+  "slides": {
+    "20": {
+      "id": 20,
+      "slide": {
+        "addOns": [],
+        "id": 20,
+        "version": "6.7.29",
+        "actions": [
+          {
+            "a": "link",
+            "evt": "click",
+            "http": "https",
+            "target": [
+              "_self"
+            ],
+            "flw": "follow",
+            "ltype": "jquery",
+            "link": "project/sobha-royal-pavilion/",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "title": "",
+        "parentId": null,
+        "language": "default",
+        "order": 4,
+        "thumb": {
+          "src": "assets/images/SOBHA-ROYAL-PAVILION-1-50x100.jpg",
+          "srcId": "",
+          "admin": "",
+          "adminId": "",
+          "dimension": "slider",
+          "default": {
+            "image": {
+              "src": "assets/images/SOBHA-ROYAL-PAVILION-1.jpg",
+              "repeat": "",
+              "size": "cover",
+              "pos": {
+                "x": "50%",
+                "y": "50%"
+              }
+            }
+          }
+        },
+        "description": "",
+        "attr": {
+          "class": "",
+          "data": "",
+          "id": "",
+          "a": "",
+          "aO": "ml",
+          "t": "",
+          "tO": "",
+          "deepLink": "",
+          "attr": ""
+        },
+        "publish": {
+          "from": "",
+          "to": "",
+          "state": "published",
+          "sch": true
+        },
+        "slideshow": {
+          "stop": false,
+          "len": "default",
+          "hal": 0,
+          "hom": false,
+          "hfn": false
+        },
+        "loop": {
+          "u": false,
+          "r": -1,
+          "s": 0,
+          "e": 99999
+        }
+      },
+      "layers": [
+        {
+          "fluid": {
+            "tx": true,
+            "tr": true,
+            "sp": true
+          },
+          "id": 0,
+          "alias": "Image-0",
+          "subtype": "image",
+          "runtime": {
+            "locked": false,
+            "hidden": false
+          },
+          "size": {
+            "w": [
+              "540px",
+              "540px",
+              "540px",
+              "407px",
+              "407px"
+            ],
+            "h": [
+              "677px",
+              "677px",
+              "677px",
+              "510px",
+              "510px"
+            ],
+            "minW": [
+              "none",
+              "none",
+              "none",
+              "none",
+              "none"
+            ],
+            "minH": [
+              "none",
+              "none",
+              "none",
+              "none",
+              "none"
+            ],
+            "sProp": true
+          },
+          "pos": {
+            "x": [
+              "#a",
+              0,
+              0,
+              0,
+              "5px"
+            ],
+            "y": [
+              "28px",
+              "28px",
+              "28px",
+              "28px",
+              "140px"
+            ],
+            "h": [
+              "center",
+              "center",
+              "center",
+              "center",
+              "center"
+            ],
+            "pos": "absolute",
+            "float": [
+              "none",
+              "none",
+              "none",
+              "none",
+              "none"
+            ],
+            "clear": [
+              "none",
+              "none",
+              "none",
+              "none",
+              "none"
+            ]
+          },
+          "display": [
+            "block",
+            "block",
+            "block",
+            "block",
+            "block"
+          ],
+          "vA": "top",
+          "bg": {
+            "color": {
+              "orig": "transparent",
+              "type": "solid",
+              "string": "transparent"
+            },
+            "image": {
+              "ratio": 1,
+              "src": "assets/images/frame.png",
+              "lib": "medialibrary",
+              "lib_id": 6047,
+              "lib_size": "full",
+              "fromStream": false,
+              "streamType": "gallery",
+              "pos": {
+                "x": "50%",
+                "y": "50%"
+              },
+              "repeat": "no-repeat",
+              "size": "cover",
+              "sizeVal": "100%",
+              "seo": false
+            }
+          },
+          "attr": {
+            "aO": "ml",
+            "tO": "ml"
+          },
+          "tl": {
+            "in": {
+              "content": {
+                "pers": "600px",
+                "orig": {
+                  "x": "50%",
+                  "y": "50%",
+                  "z": "0"
+                },
+                "all": [
+                  {
+                    "t": 0,
+                    "d": 0,
+                    "f": 0,
+                    "e": "power3.inOut",
+                    "pE": "d",
+                    "x": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "y": [
+                      "-100%",
+                      "-100%",
+                      "-100%",
+                      "-100%",
+                      "-100%"
+                    ],
+                    "o": 0,
+                    "xRe": 0,
+                    "yRe": 0,
+                    "off": 0
+                  },
+                  {
+                    "t": 0,
+                    "d": 1200,
+                    "f": 1200,
+                    "e": "power3.inOut",
+                    "pE": "d",
+                    "x": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "y": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "o": 1,
+                    "xRe": 0,
+                    "yRe": 0,
+                    "off": 0
+                  }
+                ]
+              },
+              "mask": {
+                "all": [
+                  {
+                    "t": 0,
+                    "d": 0,
+                    "f": 0,
+                    "e": "power3.inOut",
+                    "x": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "y": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "oflow": "hidden",
+                    "xRe": 0,
+                    "yRe": 0,
+                    "off": 0
+                  },
+                  {
+                    "t": 0,
+                    "d": 1200,
+                    "f": 1200,
+                    "e": "power3.inOut",
+                    "x": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "y": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "oflow": "hidden",
+                    "xRe": 0,
+                    "yRe": 0,
+                    "off": 0
+                  }
+                ]
+              }
+            },
+            "out": {
+              "content": {
+                "pers": "600px",
+                "orig": {
+                  "x": "50%",
+                  "y": "50%",
+                  "z": "0"
+                },
+                "all": [
+                  {
+                    "t": 0,
+                    "d": 300,
+                    "f": 300,
+                    "e": "power3.inOut",
+                    "pE": "n",
+                    "x": [
+                      "inherit",
+                      "inherit",
+                      "inherit",
+                      "inherit",
+                      "inherit"
+                    ],
+                    "y": [
+                      "inherit",
+                      "inherit",
+                      "inherit",
+                      "inherit",
+                      "inherit"
+                    ],
+                    "o": 0,
+                    "xRe": 0,
+                    "yRe": 0,
+                    "off": 0
+                  }
+                ]
+              },
+              "mask": {
+                "all": [
+                  {
+                    "t": 0,
+                    "d": 300,
+                    "f": 300,
+                    "e": "power3.inOut",
+                    "oflow": "visible",
+                    "xRe": 0,
+                    "yRe": 0,
+                    "off": 0
+                  }
+                ]
+              }
+            }
+          },
+          "p": {
+            "t": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "b": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "l": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "r": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "m": {
+            "t": [
+              0,
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ],
+            "b": [
+              0,
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ],
+            "l": [
+              0,
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ],
+            "r": [
+              0,
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ]
+          },
+          "type": "shape"
+        },
+        {
+          "fluid": {
+            "tx": true,
+            "tr": true,
+            "sp": true
+          },
+          "id": 1,
+          "alias": "Text-1",
+          "content": {
+            "text": "SOBHA ROYAL PAVILION"
+          },
+          "runtime": {
+            "locked": false,
+            "hidden": false
+          },
+          "size": {
+            "w": [
+              "#a",
+              "auto",
+              "auto",
+              "auto",
+              "auto"
+            ],
+            "h": [
+              "#a",
+              "auto",
+              "auto",
+              "auto",
+              "auto"
+            ],
+            "minW": [
+              "none",
+              "none",
+              "none",
+              "none",
+              "none"
+            ],
+            "minH": [
+              "none",
+              "none",
+              "none",
+              "none",
+              "none"
+            ]
+          },
+          "pos": {
+            "x": [
+              "718px",
+              "718px",
+              "#a",
+              "210px",
+              "56px"
+            ],
+            "y": [
+              "466px",
+              "466px",
+              "#a",
+              "354px",
+              "470px"
+            ],
+            "pos": "absolute",
+            "float": [
+              "none",
+              "none",
+              "none",
+              "none",
+              "none"
+            ],
+            "clear": [
+              "none",
+              "none",
+              "none",
+              "none",
+              "none"
+            ]
+          },
+          "zIndex": 7,
+          "order": 7,
+          "display": [
+            "block",
+            "block",
+            "block",
+            "block",
+            "block"
+          ],
+          "vA": "top",
+          "bg": {
+            "color": {
+              "orig": "transparent",
+              "type": "solid",
+              "string": "transparent"
+            }
+          },
+          "attr": {
+            "aO": "ml",
+            "class": "gyt-class",
+            "tO": "ml",
+            "wrapClass": "gyt-class"
+          },
+          "tl": {
+            "in": {
+              "content": {
+                "pers": "600px",
+                "orig": {
+                  "x": "50%",
+                  "y": "50%",
+                  "z": "0"
+                },
+                "all": [
+                  {
+                    "t": 1200,
+                    "d": 0,
+                    "f": 0,
+                    "e": "power3.inOut",
+                    "pE": "d",
+                    "x": [
+                      "0px",
+                      "0px",
+                      "0px",
+                      "0px",
+                      "0px"
+                    ],
+                    "y": [
+                      "0px",
+                      "0px",
+                      "0px",
+                      "0px",
+                      "0px"
+                    ],
+                    "o": 0,
+                    "xRe": 0,
+                    "yRe": 0,
+                    "off": 0
+                  },
+                  {
+                    "t": 1200,
+                    "d": 300,
+                    "f": 300,
+                    "e": "power3.inOut",
+                    "pE": "d",
+                    "x": [
+                      "0px",
+                      "0px",
+                      "0px",
+                      "0px",
+                      "0px"
+                    ],
+                    "y": [
+                      "0px",
+                      "0px",
+                      "0px",
+                      "0px",
+                      "0px"
+                    ],
+                    "o": 1,
+                    "xRe": 0,
+                    "yRe": 0,
+                    "off": 0
+                  }
+                ]
+              }
+            },
+            "out": {
+              "content": {
+                "pers": "600px",
+                "orig": {
+                  "x": "50%",
+                  "y": "50%",
+                  "z": "0"
+                },
+                "all": [
+                  {
+                    "t": 0,
+                    "d": 300,
+                    "f": 300,
+                    "e": "power3.inOut",
+                    "pE": "n",
+                    "x": [
+                      "inherit",
+                      "inherit",
+                      "inherit",
+                      "inherit",
+                      "inherit"
+                    ],
+                    "y": [
+                      "inherit",
+                      "inherit",
+                      "inherit",
+                      "inherit",
+                      "inherit"
+                    ],
+                    "o": 0,
+                    "xRe": 0,
+                    "yRe": 0,
+                    "off": 0
+                  }
+                ]
+              }
+            }
+          },
+          "p": {
+            "t": [
+              0,
+              0,
+              "#a",
+              0,
+              "#a"
+            ],
+            "b": [
+              0,
+              0,
+              "#a",
+              0,
+              "#a"
+            ],
+            "l": [
+              0,
+              0,
+              "#a",
+              0,
+              "#a"
+            ],
+            "r": [
+              0,
+              0,
+              "#a",
+              0,
+              "#a"
+            ]
+          },
+          "m": {
+            "t": [
+              0,
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ],
+            "b": [
+              0,
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ],
+            "l": [
+              0,
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ],
+            "r": [
+              0,
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ]
+          },
+          "color": [
+            "#e66837",
+            "#e66837",
+            "#e66837",
+            "#e66837",
+            "#e66837"
+          ],
+          "font": {
+            "size": [
+              "35",
+              "35",
+              "#a",
+              "21",
+              "28px"
+            ],
+            "weight": [
+              400,
+              400,
+              400,
+              400,
+              400
+            ],
+            "ls": [
+              "#a",
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "lh": [
+            "44",
+            "44",
+            "#a",
+            "27",
+            "28px"
+          ],
+          "type": "text",
+          "toggle": {
+            "text": ""
+          }
+        },
+        {
+          "fluid": {
+            "tx": true,
+            "tr": true,
+            "sp": true
+          },
+          "id": 2,
+          "alias": "Text-2",
+          "content": {
+            "text": "Rooted in warmth, tradition, and everyday elegance, this home is envisioned as a lived-in sanctuary for a family of five that values culture and comfort in equal measure."
+          },
+          "runtime": {
+            "locked": false,
+            "hidden": false
+          },
+          "size": {
+            "w": [
+              "468",
+              "468",
+              "#a",
+              "342",
+              "376px"
+            ],
+            "h": [
+              "145",
+              "145",
+              "#a",
+              "105",
+              "auto"
+            ],
+            "minW": [
+              "none",
+              "none",
+              "none",
+              "none",
+              "none"
+            ],
+            "minH": [
+              "none",
+              "none",
+              "none",
+              "none",
+              "none"
+            ]
+          },
+          "pos": {
+            "x": [
+              "718px",
+              "718px",
+              "#a",
+              "208px",
+              "58px"
+            ],
+            "y": [
+              "522px",
+              "522px",
+              "#a",
+              "393px",
+              "510px"
+            ],
+            "pos": "absolute",
+            "float": [
+              "none",
+              "none",
+              "none",
+              "none",
+              "none"
+            ],
+            "clear": [
+              "none",
+              "none",
+              "none",
+              "none",
+              "none"
+            ]
+          },
+          "zIndex": 8,
+          "order": 8,
+          "display": [
+            "block",
+            "block",
+            "block",
+            "block",
+            "block"
+          ],
+          "vA": "top",
+          "bg": {
+            "color": {
+              "orig": "transparent",
+              "type": "solid",
+              "string": "transparent"
+            }
+          },
+          "attr": {
+            "aO": "ml",
+            "tO": "ml"
+          },
+          "tl": {
+            "in": {
+              "content": {
+                "pers": "600px",
+                "orig": {
+                  "x": "50%",
+                  "y": "50%",
+                  "z": "0"
+                },
+                "all": [
+                  {
+                    "t": 1200,
+                    "d": 0,
+                    "f": 0,
+                    "e": "power3.inOut",
+                    "pE": "d",
+                    "x": [
+                      "0px",
+                      "0px",
+                      "0px",
+                      "0px",
+                      "0px"
+                    ],
+                    "y": [
+                      "0px",
+                      "0px",
+                      "0px",
+                      "0px",
+                      "0px"
+                    ],
+                    "o": 0,
+                    "xRe": 0,
+                    "yRe": 0,
+                    "off": 0
+                  },
+                  {
+                    "t": 1200,
+                    "d": 300,
+                    "f": 300,
+                    "e": "power3.inOut",
+                    "pE": "d",
+                    "x": [
+                      "0px",
+                      "0px",
+                      "0px",
+                      "0px",
+                      "0px"
+                    ],
+                    "y": [
+                      "0px",
+                      "0px",
+                      "0px",
+                      "0px",
+                      "0px"
+                    ],
+                    "o": 1,
+                    "xRe": 0,
+                    "yRe": 0,
+                    "off": 0
+                  }
+                ]
+              }
+            },
+            "out": {
+              "content": {
+                "pers": "600px",
+                "orig": {
+                  "x": "50%",
+                  "y": "50%",
+                  "z": "0"
+                },
+                "all": [
+                  {
+                    "t": 0,
+                    "d": 300,
+                    "f": 300,
+                    "e": "power3.inOut",
+                    "pE": "n",
+                    "x": [
+                      "inherit",
+                      "inherit",
+                      "inherit",
+                      "inherit",
+                      "inherit"
+                    ],
+                    "y": [
+                      "inherit",
+                      "inherit",
+                      "inherit",
+                      "inherit",
+                      "inherit"
+                    ],
+                    "o": 0,
+                    "xRe": 0,
+                    "yRe": 0,
+                    "off": 0
+                  }
+                ]
+              }
+            }
+          },
+          "p": {
+            "t": [
+              0,
+              0,
+              "#a",
+              0,
+              "#a"
+            ],
+            "b": [
+              0,
+              0,
+              "#a",
+              0,
+              "#a"
+            ],
+            "l": [
+              0,
+              0,
+              "#a",
+              0,
+              "#a"
+            ],
+            "r": [
+              0,
+              0,
+              "#a",
+              0,
+              "#a"
+            ]
+          },
+          "m": {
+            "t": [
+              0,
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ],
+            "b": [
+              0,
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ],
+            "l": [
+              0,
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ],
+            "r": [
+              0,
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ]
+          },
+          "ws": [
+            "normal",
+            "normal",
+            "normal",
+            "normal",
+            "normal"
+          ],
+          "color": [
+            "#1d3241",
+            "#1d3241",
+            "#1d3241",
+            "#1d3241",
+            "#1d3241"
+          ],
+          "font": {
+            "family": "'Inter Tight'",
+            "size": [
+              "19",
+              "19",
+              "#a",
+              "13",
+              "14px"
+            ],
+            "weight": [
+              400,
+              400,
+              400,
+              400,
+              400
+            ],
+            "ls": [
+              "#a",
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "lh": [
+            "28px",
+            "28px",
+            "#a",
+            "29px",
+            "22px"
+          ],
+          "type": "text",
+          "toggle": {
+            "text": ""
+          }
+        },
+        {
+          "rTo": "slide",
+          "listen": [
+            "click"
+          ],
+          "fluid": {
+            "tx": true,
+            "tr": true,
+            "sp": true
+          },
+          "id": 3,
+          "runtime": {
+            "locked": false,
+            "hidden": false
+          },
+          "size": {
+            "w": [
+              "#a",
+              "100%",
+              "#a",
+              "#a",
+              "#a"
+            ],
+            "h": [
+              "#a",
+              "100%",
+              "#a",
+              "#a",
+              "#a"
+            ],
+            "minW": [
+              "none",
+              "none",
+              "none",
+              "none",
+              "none"
+            ],
+            "minH": [
+              "none",
+              "none",
+              "none",
+              "none",
+              "none"
+            ]
+          },
+          "pos": {
+            "x": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "pos": "absolute",
+            "float": [
+              "none",
+              "none",
+              "none",
+              "none",
+              "none"
+            ],
+            "clear": [
+              "none",
+              "none",
+              "none",
+              "none",
+              "none"
+            ]
+          },
+          "zIndex": 150,
+          "display": [
+            "block",
+            "block",
+            "block",
+            "block",
+            "block"
+          ],
+          "vA": "top",
+          "cursor": "pointer",
+          "bg": {
+            "color": {
+              "orig": "transparent",
+              "type": "solid",
+              "string": "transparent"
+            }
+          },
+          "attr": {
+            "aO": "ml",
+            "tO": "ml"
+          },
+          "tl": {
+            "in": {
+              "content": {
+                "pers": "600px",
+                "orig": {
+                  "x": "50%",
+                  "y": "50%",
+                  "z": "0"
+                },
+                "all": [
+                  {
+                    "t": 0,
+                    "d": 0,
+                    "f": 0,
+                    "e": "power3.inOut",
+                    "pE": "d",
+                    "x": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "y": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "o": 0,
+                    "xRe": 0,
+                    "yRe": 0,
+                    "off": 0
+                  },
+                  {
+                    "t": 0,
+                    "d": 300,
+                    "f": 300,
+                    "e": "power3.inOut",
+                    "pE": "d",
+                    "x": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "y": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "o": 1,
+                    "xRe": 0,
+                    "yRe": 0,
+                    "off": 0
+                  }
+                ]
+              }
+            },
+            "out": {
+              "content": {
+                "pers": "600px",
+                "orig": {
+                  "x": "50%",
+                  "y": "50%",
+                  "z": "0"
+                },
+                "all": [
+                  {
+                    "t": 0,
+                    "d": 300,
+                    "f": 300,
+                    "e": "power3.inOut",
+                    "pE": "n",
+                    "x": [
+                      "inherit",
+                      "inherit",
+                      "inherit",
+                      "inherit",
+                      "inherit"
+                    ],
+                    "y": [
+                      "inherit",
+                      "inherit",
+                      "inherit",
+                      "inherit",
+                      "inherit"
+                    ],
+                    "o": 0,
+                    "xRe": 0,
+                    "yRe": 0,
+                    "off": 0
+                  }
+                ]
+              }
+            }
+          },
+          "p": {
+            "t": [
+              "#a",
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ],
+            "b": [
+              "#a",
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ],
+            "l": [
+              "#a",
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ],
+            "r": [
+              "#a",
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ]
+          },
+          "m": {
+            "t": [
+              "#a",
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ],
+            "b": [
+              "#a",
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ],
+            "l": [
+              "#a",
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ],
+            "r": [
+              "#a",
+              0,
+              "#a",
+              "#a",
+              "#a"
+            ]
+          },
+          "type": "shape"
+        },
+        {
+          "rTo": "slide",
+          "id": 4,
+          "alias": "Slide BG Layer",
+          "subtype": "slidebg",
+          "size": {
+            "cMode": "cover"
+          },
+          "pos": {
+            "h": [
+              "center",
+              "center",
+              "center",
+              "center",
+              "center"
+            ],
+            "v": [
+              "center",
+              "center",
+              "center",
+              "center",
+              "center"
+            ],
+            "pos": "absolute"
+          },
+          "zIndex": 0,
+          "order": 0,
+          "display": [
+            "block",
+            "block",
+            "block",
+            "block",
+            "block"
+          ],
+          "bg": {
+            "image": {
+              "ratio": 1.5,
+              "src": "assets/images/SOBHA-ROYAL-PAVILION-1.jpg",
+              "lib": "medialibrary",
+              "lib_id": 7499,
+              "lib_size": "",
+              "fromStream": false,
+              "streamType": "gallery",
+              "pos": {
+                "x": "50%",
+                "y": "50%"
+              },
+              "repeat": "",
+              "size": "cover",
+              "sizeVal": "100%",
+              "seo": false
+            }
+          },
+          "tl": {
+            "in": {
+              "bg": {
+                "ms": 10,
+                "rnd": false,
+                "temp": {
+                  "t": "*clear* No Transition",
+                  "p": "notransition",
+                  "m": "basic",
+                  "g": "fade"
+                },
+                "addOns": [],
+                "in": {
+                  "o": 1
+                },
+                "out": {
+                  "a": false
+                }
+              }
+            }
+          },
+          "type": "shape"
+        }
+      ]
+    }
+  },
+  "addOns": []
+}

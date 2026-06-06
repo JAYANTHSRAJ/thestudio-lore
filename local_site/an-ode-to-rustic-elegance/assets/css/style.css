@@ -1,0 +1,88 @@
+/* Style for Elementor Timeline Widget */
+.etw-timeline-wrapper {
+    position: relative;
+    padding: 0px;
+}
+.etw-timeline-line {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 2px;
+    height: 100%;
+    background: #ccc;
+    transform: translateX(-50%);
+    z-index: 0;
+}
+.etw-timeline-entry {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20px;
+    position: relative;
+    margin-bottom: 60px;
+    z-index: 1;
+}
+.etw-timeline-entry.even {
+    flex-direction: row;
+    text-align: left;
+}
+.etw-timeline-entry.odd {
+    flex-direction: row-reverse;
+    text-align: left;
+}
+.etw-timeline-dot {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #E66837;
+    border: 0px solid white;
+    box-shadow: 0 0 0 5px #1D3241;
+    position: absolute;
+    left: 50%;
+    top: 0;
+    transform: translate(-50%, 0);
+    z-index: 2;
+}
+.etw-timeline-content,
+.etw-timeline-image {
+    width: 45%;
+}
+.etw-timeline-content h3 {
+    font-size: 1.75rem;
+    color: #E66837;
+    font-family: "gyst-variable", sans-serif !important;
+    margin-bottom: 10px;
+}
+.etw-timeline-content p {
+    font-size: 1rem;
+    color: #1D3241;
+    margin: 0;
+}
+.etw-timeline-image img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+@media (max-width: 768px) {
+    .etw-timeline-entry {
+        flex-direction: column !important;
+        text-align: left !important;
+        padding-left: 40px;
+    }
+    .etw-timeline-dot {
+        position: absolute;
+        left: 10px;
+        top: 0px;
+        transform: translateY(0);
+    }
+    .etw-timeline-content,
+    .etw-timeline-image {
+        width: 100%;
+        padding-left: 0;
+        margin-bottom: 20px;
+    }
+    .etw-timeline-line {
+        left: 20px;
+        transform: none;
+    }
+}
